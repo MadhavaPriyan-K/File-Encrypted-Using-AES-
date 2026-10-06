@@ -1,0 +1,3 @@
+This is a secret message.
+This file is transferred securely
+using AES encryption and socket programming.
